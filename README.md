@@ -1,5 +1,17 @@
 Complex-Object-Simulation-using-Three.js-Library
 
+Overview
+This Repository contains the code that creates various simulation of cubes moving and orbiting around space in various different ways. Every time the simulation is reloaded a selection of the core cubes change colour. The simulation uses THREE.CatmullRomCurve, THREE.BufferGeometry and THREE.Line to move the cubes across the environment. 
+
+
+
+
+How to use: 
+Clone the the repository into a code ediotr such as Visual Studio code. 
+Launch the script with a local development sever installed. 
+Open the project in your browser and explore the simulation in your web browser.
+
+
 <img width="3584" height="2078" alt="cubes1" src="https://github.com/user-attachments/assets/1b0c37d0-c92d-4302-a68d-7c2461feb4b1" />
 
 
